@@ -1,1 +1,1 @@
-Página web criado durante curso da Alura
+Página web criada durante curso da Alura
